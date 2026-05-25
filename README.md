@@ -98,7 +98,7 @@ Smart-ToDo-App/
 
 ## Application Screenshots
 
-### ![User Interface](Screenshot 2026-05-25 112507.png)
+### ![User Interface](Screenshot%202026-05-25%20112507.png)
 ### ![Database Table View](image_url)
 
 Add:
