@@ -98,8 +98,8 @@ Smart-ToDo-App/
 
 ## Application Screenshots
 
-### ![Alt text](image_url)
-### ![Alt text](image_url)
+### ![User Interface](Screenshot 2026-05-25 112507.png)
+### ![Database Table View](image_url)
 
 Add:
 `Screenshot 2026-05-25 112953.png`
