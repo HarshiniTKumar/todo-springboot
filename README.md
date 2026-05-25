@@ -99,7 +99,8 @@ Smart-ToDo-App/
 ## Application Screenshots
 
 ### ![User Interface](Screenshot%202026-05-25%20112507.png)
-### ![Database Table View](Screenshot%2026-05-25%20112953.png)
+![Database Table View](Screenshot%202026-05-25%20112953.png)
+
 
 
 
